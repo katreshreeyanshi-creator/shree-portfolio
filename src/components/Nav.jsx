@@ -9,7 +9,7 @@ const links = [
 
 function Nav() {
   return (
-    <nav className="sticky top-4 z-50 mx-auto flex w-fit gap-1 rounded-full border border-white/40 bg-white/70 p-1.5 shadow-lg shadow-black/5 backdrop-blur-md">
+    <nav className="flex w-fit gap-1 rounded-full border border-white/40 bg-white/70 p-1.5 shadow-lg shadow-black/5 backdrop-blur-md">
       {links.map(({ to, label }) => (
         <NavLink
           key={to}
