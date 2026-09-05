@@ -1,23 +1,23 @@
 const projects = [
   {
     image: '/work/01.jpg',
-    title: '[PROJECT 1 TITLE]',
-    description: '[ONE-LINE DESC]',
+    title: 'E-Commerce Clothing Website',
+    description: 'UI/UX design for a women’s fashion brand, from homepage to checkout.',
   },
   {
     image: '/work/02.jpg',
-    title: '[PROJECT 2 TITLE]',
-    description: '[ONE-LINE DESC]',
+    title: 'Digital Remote (Television + OTT)',
+    description: 'Mobile remote control app UI for smart TVs and streaming apps.',
   },
   {
     image: '/work/03.jpg',
-    title: '[PROJECT 3 TITLE]',
-    description: '[ONE-LINE DESC]',
+    title: 'Graphic Designs',
+    description: 'Social media ad creatives and brand identity for a chicken restaurant.',
   },
   {
     image: '/work/04.jpg',
-    title: '[PROJECT 4 TITLE]',
-    description: '[ONE-LINE DESC]',
+    title: 'FurnishFlex (Furniture Rental App)',
+    description: 'End-to-end app UI for renting furniture online, from onboarding to cart.',
   },
 ]
 
