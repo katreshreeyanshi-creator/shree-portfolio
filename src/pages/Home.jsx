@@ -1,6 +1,7 @@
 import Hero from '../components/Hero'
 import FeaturedWork from '../components/FeaturedWork'
 import About from '../components/About'
+import Footer from '../components/Footer'
 
 function Home() {
   return (
@@ -8,6 +9,7 @@ function Home() {
       <Hero />
       <FeaturedWork />
       <About />
+      <Footer />
     </>
   )
 }

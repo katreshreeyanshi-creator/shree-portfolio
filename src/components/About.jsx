@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 
-const BIO = '[PASTE YOUR 60-WORD BIO HERE]'
+const BIO =
+  'Multidisciplinary Graphic & Visual Designer with 1 year of experience, combining creativity, strategic thinking, and a business mindset to create impactful designs that connect with audiences and elevate brands.'
 
 function About() {
   return (
